@@ -1,0 +1,19 @@
+{
+  "name": "es5-packer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZZY2357/es5-packer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZZY2357/es5-packer/issues"
+  },
+  "homepage": "https://github.com/ZZY2357/es5-packer#readme"
+}
