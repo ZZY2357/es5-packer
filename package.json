@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
+  "bin": {
+    "es5-packer": "index.js"
   },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ZZY2357/es5-packer.git"
@@ -15,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/ZZY2357/es5-packer/issues"
   },
-  "homepage": "https://github.com/ZZY2357/es5-packer#readme"
+  "homepage": "https://github.com/ZZY2357/es5-packer#readme",
+  "dependencies": {
+    "_commander@6.0.0@commander": "^6.0.0",
+    "commander": "^6.0.0"
+  },
+  "devDependencies": {}
 }
